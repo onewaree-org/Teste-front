@@ -22,6 +22,12 @@ Temos uma tela principal, pense no fluxo que esse sistema pode existir para cria
 
 Link para proposta de layout: https://drive.google.com/drive/folders/1W011MEzWCh1Ttcqihq2SoPFTkwt4KaIA?usp=sharing
 
+### Entrega
+
+Você deve criar um repositório na sua conta do Github para esse sistema. Recomendamos que você faça _commits_ periodicamente, sempre que adicionar algo de novo à página.
+
+No final do prazo você deve nos enviar uma mensagem ou e-mail com o link do repositório.
+
 ### O que vai ser avaliado?
 
 - Qualidade de código 
@@ -33,4 +39,4 @@ Link para proposta de layout: https://drive.google.com/drive/folders/1W011MEzWCh
 
 Estabelecemos os quesitos de avaliação mas não se prenda a eles, utilize a tecnologia que qual se sinta melhor de trabalhar, seja WordPress ou desenvolvimento sem framework, é tudo a sua escola.
 
-Caso tenha propostas de mudança no layout as faça, mas argumente sobre essas mudanças em um documento. 
+Caso tenha propostas de mudança no layout as faça, mas argumente sobre essas mudanças em um documento.
