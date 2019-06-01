@@ -24,7 +24,7 @@ Link para proposta de layout: https://drive.google.com/drive/folders/1W011MEzWCh
 
 ### Entrega
 
-__Data da entrega: 06/06 (Quinta-feira) __ 
+__Data da entrega: 06/06 (Quinta-feira)__
 
 Você deve criar um repositório na sua conta do Github para esse sistema. Recomendamos que você faça _commits_ periodicamente, sempre que adicionar algo de novo à página.
 
